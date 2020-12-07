@@ -1,0 +1,19 @@
+{
+  "name": "secretswebproject",
+  "version": "1.0.0",
+  "description": "This is a project for the security level 1st.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "mongoose-encryption": "^2.0.3"
+  }
+}
